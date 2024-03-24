@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 170px;
+  margin: 10px;
+  text-align: center;
+}
+.txt-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+}
